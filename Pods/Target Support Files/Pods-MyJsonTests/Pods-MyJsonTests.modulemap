@@ -1,6 +1,0 @@
-framework module Pods_MyJsonTests {
-  umbrella header "Pods-MyJsonTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
